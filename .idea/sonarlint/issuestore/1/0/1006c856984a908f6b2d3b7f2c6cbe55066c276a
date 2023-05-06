@@ -1,0 +1,11 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šÂ¹­8À½™÷þ0
+]	java:S125"<This block of commented-out lines of code should be removed.(¯›½Ÿúÿÿÿÿ8¼Ûùöþ0
+]	java:S125"<This block of commented-out lines of code should be removed.(½×†«þÿÿÿÿ8¼Ûùöþ0
+]	java:S125 "<This block of commented-out lines of code should be removed.(ªý“éýÿÿÿÿ8½Ûùöþ0
+[
+java:S1854("9Remove this useless assignment to local variable "user1".(ý’‚úÿÿÿÿ8¾Ûùöþ0
+L
+java:S1481("*Remove this unused "user1" local variable.(ý’‚úÿÿÿÿ8¿Ûùöþ0
+Q
+java:S1144&"/Remove this unused private "getAndSave" method.(Ïÿ¦ñÿÿÿÿÿ8ÇÛùöþ0
